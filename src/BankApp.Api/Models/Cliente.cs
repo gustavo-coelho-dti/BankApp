@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -16,3 +16,4 @@ namespace BankApp.Api.Models
         public string Senha { get; set; }
     }
 }
+

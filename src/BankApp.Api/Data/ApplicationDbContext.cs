@@ -1,4 +1,4 @@
-﻿using BankApp.Api.Models;
+using BankApp.Api.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BankApp.Api.Data
@@ -16,3 +16,4 @@ namespace BankApp.Api.Data
         }
     }
 }
+
